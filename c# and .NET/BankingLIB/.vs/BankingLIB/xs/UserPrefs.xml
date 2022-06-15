@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BankingLIB/Accounts.cs">
+    <Files>
+      <File FileName="BankingLIB/Accounts.cs" Line="33" Column="32" />
+      <File FileName="BankingLIB/Savings.cs" Line="12" Column="19" />
+      <File FileName="BankingLIB/Checking.cs" Line="10" Column="34" />
+      <File FileName="BankingLIB/Loan.cs" Line="10" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BankingLIB" expanded="True">
+            <Node name="BankingLIB" expanded="True">
+              <Node name="Accounts.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BankingLIB FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,30 @@
+/Users/josephdelorenzo/Projects/Enum_Demo655/Enum_Demo655/bin/Debug/net6.0/Enum_Demo655
+/Users/josephdelorenzo/Projects/Enum_Demo655/Enum_Demo655/bin/Debug/net6.0/Enum_Demo655.deps.json
+/Users/josephdelorenzo/Projects/Enum_Demo655/Enum_Demo655/bin/Debug/net6.0/Enum_Demo655.runtimeconfig.json
+/Users/josephdelorenzo/Projects/Enum_Demo655/Enum_Demo655/bin/Debug/net6.0/Enum_Demo655.dll
+/Users/josephdelorenzo/Projects/Enum_Demo655/Enum_Demo655/bin/Debug/net6.0/Enum_Demo655.pdb
+/Users/josephdelorenzo/Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/Enum_Demo655.csproj.AssemblyReference.cache
+/Users/josephdelorenzo/Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/Enum_Demo655.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephdelorenzo/Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/Enum_Demo655.AssemblyInfoInputs.cache
+/Users/josephdelorenzo/Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/Enum_Demo655.AssemblyInfo.cs
+/Users/josephdelorenzo/Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/Enum_Demo655.csproj.CoreCompileInputs.cache
+/Users/josephdelorenzo/Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/Enum_Demo655.dll
+/Users/josephdelorenzo/Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/refint/Enum_Demo655.dll
+/Users/josephdelorenzo/Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/Enum_Demo655.pdb
+/Users/josephdelorenzo/Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/Enum_Demo655.genruntimeconfig.cache
+/Users/josephdelorenzo/Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/ref/Enum_Demo655.dll
+/Users/josephdelorenzo/VS Studio Projects/Enum_Demo655/Enum_Demo655/bin/Debug/net6.0/Enum_Demo655
+/Users/josephdelorenzo/VS Studio Projects/Enum_Demo655/Enum_Demo655/bin/Debug/net6.0/Enum_Demo655.deps.json
+/Users/josephdelorenzo/VS Studio Projects/Enum_Demo655/Enum_Demo655/bin/Debug/net6.0/Enum_Demo655.runtimeconfig.json
+/Users/josephdelorenzo/VS Studio Projects/Enum_Demo655/Enum_Demo655/bin/Debug/net6.0/Enum_Demo655.dll
+/Users/josephdelorenzo/VS Studio Projects/Enum_Demo655/Enum_Demo655/bin/Debug/net6.0/Enum_Demo655.pdb
+/Users/josephdelorenzo/VS Studio Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/Enum_Demo655.csproj.AssemblyReference.cache
+/Users/josephdelorenzo/VS Studio Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/Enum_Demo655.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephdelorenzo/VS Studio Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/Enum_Demo655.AssemblyInfoInputs.cache
+/Users/josephdelorenzo/VS Studio Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/Enum_Demo655.AssemblyInfo.cs
+/Users/josephdelorenzo/VS Studio Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/Enum_Demo655.csproj.CoreCompileInputs.cache
+/Users/josephdelorenzo/VS Studio Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/Enum_Demo655.dll
+/Users/josephdelorenzo/VS Studio Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/refint/Enum_Demo655.dll
+/Users/josephdelorenzo/VS Studio Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/Enum_Demo655.pdb
+/Users/josephdelorenzo/VS Studio Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/Enum_Demo655.genruntimeconfig.cache
+/Users/josephdelorenzo/VS Studio Projects/Enum_Demo655/Enum_Demo655/obj/Debug/net6.0/ref/Enum_Demo655.dll
